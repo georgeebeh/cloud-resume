@@ -1,11 +1,38 @@
 
-h1 {
+body {
     color: blue;
-    background-color: yellow;
-    border: 1px solid blue;
+    background-color: whitesmoke;
+    text-align: justify;
+    
 }
 
-p {
-    color: red;
+div {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+    border: 1px solid black;
+    margin: 5px;
+    padding-right: 2px;
+    padding-right: 2px;
 }
+
+#heading {
+    
+    padding: 6px;
+    margin: 2px;
+    text-align: center;
+    color: white;
+    background-color: black
+}
+
+
+p {
+    color: grey;
+    font-size: 10px
+    }
+
+div {
+       
+    }
 
